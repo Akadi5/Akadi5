@@ -1,3 +1,18 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/385501118588911618)](https://discord.com/users/385501118588911618)
+<h2> Hi, I'm Mxrc3l / Akadi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft9t232qoj1uacb85rv8l74m7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
+[![Twitter: mxrc3l_](https://img.shields.io/twitter/follow/mxrc3l_?style=social)](https://x.com/mxrc3l_)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const akadi = {
+  code: [Javascript, CSharp],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
+
+<img src="https://tenor.com/de/view/hecrazy-gif-27545730" width="60"> <em><b>I'm crazy</b> :)</em>
+
+---
