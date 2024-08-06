@@ -1,5 +1,5 @@
-<h2> Hi, I'm Mxrc3l / Akadi! <img src="" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Mxrc3l / Akadi! </h2>
+
 
 [![Twitter: mxrc3l_](https://img.shields.io/twitter/follow/mxrc3l_?style=social)](https://x.com/mxrc3l_)
 
