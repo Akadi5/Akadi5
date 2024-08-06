@@ -9,7 +9,7 @@
 ```javascript
 const akadi = {
   code: [Javascript, CSharp],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  skills: [Be on the PC Every day]
 }
 ```
 
