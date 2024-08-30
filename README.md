@@ -8,7 +8,8 @@
 
 ```javascript
 const akadi = {
-  code: [Javascript, CSharp],
+  code: [Javascript],
+  learning: [CSharp],
   skills: [Be on the PC Every day]
 }
 ```
